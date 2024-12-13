@@ -5,7 +5,7 @@ class Calculator:
 
     def subtract(self, a, b):
         """Subtracts the second number from the first and returns the result."""
-        return b - a
+        return a - b
 
     def multiply(self, a, b):
         """Multiplies two numbers and returns the result."""
